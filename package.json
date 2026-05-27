@@ -1,0 +1,13 @@
+{
+  "name": "joeblack-scraper",
+  "version": "1.0.0",
+  "description": "Scrape Diario lottery results from joeblack.online",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "axios": "^1.6.0"
+  }
+}
